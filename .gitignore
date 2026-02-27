@@ -26,8 +26,8 @@ ENV/
 .Python
 
 # Data files
-machine-learning/data/
-*.csv
+data/raw
+ *.csv
 
 # Environment config and secret files
 .env
